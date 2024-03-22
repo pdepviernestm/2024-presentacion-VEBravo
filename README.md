@@ -1,10 +1,10 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+# Valentin Ennio Bravo
+## Sobre mí
+- Nací en el 2004
+- Soy de Caballito
+- Estudio Ingenieria en Sistemas en la UTN
+## Pasatiempos
+- Tocar la batería
+- Ir al gimnasio
+- Escuchar música
+- Leer
