@@ -3,6 +3,9 @@
 - Nací en el 2004.
 - Soy de Caballito.
 - Estudio Ingenieria en Sistemas en la UTN.
+- Tengo un [emprendimiento de diseño de ropa](https://es.fiverr.com/valenennio/create-an-incredible-tshirt-or-hoodie-streetwear-design)
+- Me gusta tomar iniciativa y ser constante en los grupos de trabajo.
+- Actualmente no busco trabajo, prefiero dedicar tiempo a la facultad.
 ## Pasatiempos
 - Tocar la batería.
 - Ir al gimnasio.
