@@ -9,7 +9,7 @@
 - Escuchar música.
 - Leer.
 ## Una foto mía
-<p align=left>
+<p align=center>
   <image src = "https://github.com/pdepviernestm/2024-presentacion-VEBravo/assets/146397261/06146798-4b88-4448-a4de-d3b1b0b673a3" height=auto width=200px>
 </p>
 
