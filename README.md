@@ -15,4 +15,12 @@
 <p align=center>
   <image src = "https://github.com/pdepviernestm/2024-presentacion-VEBravo/assets/146397261/06146798-4b88-4448-a4de-d3b1b0b673a3" height=auto width=200px>
 </p>
-Esto lo agregué como un hacker, no dice nada sobre mí. Solo quería hacer un commit como un hacker.
+## Contacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/bravovalentinennio/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:valentinenniob@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
