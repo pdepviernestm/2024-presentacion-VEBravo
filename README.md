@@ -1,4 +1,9 @@
 # Valentin Ennio Bravo
+
+<p align=center>
+  <image src = "https://github.com/pdepviernestm/2024-presentacion-VEBravo/assets/146397261/06146798-4b88-4448-a4de-d3b1b0b673a3" height=auto width=200px>
+</p>
+    
 ## Sobre mí
 - Nací en el 2004.
 - Soy de Caballito.
@@ -11,10 +16,7 @@
 - Ir al gimnasio.
 - Escuchar música.
 - Leer.
-## Una foto mía
-<p align=center>
-  <image src = "https://github.com/pdepviernestm/2024-presentacion-VEBravo/assets/146397261/06146798-4b88-4448-a4de-d3b1b0b673a3" height=auto width=200px>
-</p>
+## Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/bravovalentinennio/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
